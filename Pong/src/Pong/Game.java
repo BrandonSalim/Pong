@@ -33,7 +33,7 @@ public class Game extends Canvas implements Runnable{
 		frame.pack();
 		frame.setVisible(true);
 		frame.setLocationRelativeTo(null);
-		System.out.println("asdasd");
+		
 	}
 	
 	
